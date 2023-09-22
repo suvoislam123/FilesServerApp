@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileBankAPI", "FileBankAPI\FileBankAPI.csproj", "{E22E0FBC-DEA1-4837-B639-5F7FD9297911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{C34D2CB8-FDAF-46BD-8326-A13A7E04DF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{D1EBECDF-DDB0-43B9-962B-2A48EDD7686C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22E0FBC-DEA1-4837-B639-5F7FD9297911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22E0FBC-DEA1-4837-B639-5F7FD9297911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22E0FBC-DEA1-4837-B639-5F7FD9297911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22E0FBC-DEA1-4837-B639-5F7FD9297911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34D2CB8-FDAF-46BD-8326-A13A7E04DF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34D2CB8-FDAF-46BD-8326-A13A7E04DF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34D2CB8-FDAF-46BD-8326-A13A7E04DF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34D2CB8-FDAF-46BD-8326-A13A7E04DF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EBECDF-DDB0-43B9-962B-2A48EDD7686C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EBECDF-DDB0-43B9-962B-2A48EDD7686C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EBECDF-DDB0-43B9-962B-2A48EDD7686C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EBECDF-DDB0-43B9-962B-2A48EDD7686C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A47424-CAD9-47F3-B011-ADB61CD27034}
+	EndGlobalSection
+EndGlobal
